@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		<title>Formulario de login</title>		
+		<title>Formulario de login</title>
 		<meta charset = "UTF-8">
 		<style>
 			body {
